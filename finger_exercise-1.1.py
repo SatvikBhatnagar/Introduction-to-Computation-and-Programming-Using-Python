@@ -51,3 +51,8 @@ elif z % 2 == 1:
     
 else:
     print ("none of the numbers is an odd")
+    
+
+
+""" a better way to do this is to first check which numbers are odd, and then
+compare those with each other, the code will be much cleaner"""
