@@ -21,3 +21,6 @@ if abs(ans**2 - x) >= epsilon:
     print('Failed on square root of', x)
 else:
     print(ans, 'is close to square root of', x)
+    
+"""Exhaustive enumeration is a search technique that works only if the set of
+    values being searched includes the answer."""
